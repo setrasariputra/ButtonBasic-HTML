@@ -1,0 +1,28 @@
+.btn {
+    display: inline-block;
+    background-color: grey;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+}
+.btn:hover {
+    background-color: rgb(150, 150, 150);
+}
+.btn-purple {
+    background-color: #7B27D5;
+}
+.btn-purple:hover {
+    background-color: #923cef;
+}
+.btn-dark {
+    background-color: black;
+}
+.btn-dark:hover {
+    background-color: rgb(33, 32, 32);
+}
+.btn-radius {
+    border-radius: 20px;
+}
